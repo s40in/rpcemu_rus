@@ -1,5 +1,5 @@
 # rpcemu
-RPCEmu is an emulator of Acorn's Risc PC and A7000 machines. With Cloverleaf patches.
+RPCEmu is an emulator of Acorn's Risc PC and A7000 machines. With Cloverleaf and My patches.
 
 This is the modified version of RPCEmu 0.9.4
 * Mouse wheel scrolling
